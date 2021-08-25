@@ -1,2 +1,2 @@
 ### GOT These Pictures Somewhere on Internet
-[PIC-1](1629698587583.jpeg)
+<img src="1629698587583.jpeg" alt="pic-1" style="height: 100px; width:100px;"/>
