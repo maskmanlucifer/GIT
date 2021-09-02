@@ -1,4 +1,4 @@
-<kbd><img src="1629698587583.jpeg" alt="pic-1" style="height: 400px; width:400px; border-radius:10px;"/></kbd>
+<kbd><img src="1629698587583.jpeg" alt="pic-1" style="height: 400px; width:800px; border-radius:10px;"/></kbd>
 
 <br>
 
